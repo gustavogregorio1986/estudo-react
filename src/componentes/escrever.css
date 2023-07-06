@@ -1,0 +1,21 @@
+.escreva{
+    width: 100%;
+    height: auto;
+    background-color: blue;
+    text-align: center;
+}
+
+h2{
+    background-color: black;
+}
+
+.botao{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 90px;
+}
+
+.campo{
+    border-radius: 70px;
+    color:blueviolet;
+}
